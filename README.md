@@ -34,6 +34,14 @@ tentang kemajuan mereka dalam menyelesaikan seluruh tugas.
 
 4. Langkah ini menambahkan footer yang menunjukkan status penyelesaian tugas (completenessMessage).
    Dengan wrap widget Expanded di sekitar _buildList dalam Column, layout memungkinkan tampilan daftar tugas dengan progres di bagian bawah layar.
+![Secreenshot yuda1](image/03.png)
+
+PRAKTIKUM 3
+
+1. hasil dari praktikum 3
+![Secreenshot yuda1](image/04.png)
+
+2. 
 
 ## Getting Started
 

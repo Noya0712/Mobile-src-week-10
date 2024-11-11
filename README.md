@@ -19,6 +19,22 @@ ListTile ini memungkinkan pengguna untuk mengedit deskripsi tugas melalui TextFo
    Pada langkah 13, dispose dipakai untuk membersihkan ScrollController ketika widget tidak lagi digunakan (misalnya ketika layar berubah).
    praktikum ke-9
 
+
+TUGAS PRAKTIKUM 2
+
+1. pada hasilnya menampilkan jumlah kolom output yang di centang dan juga jumlah tasks dari daftar tugas dengan progres di bagian bawah layar.
+![Secreenshot yuda1](image/02.png)
+
+2. InheritedNotifier adalah varian dari InheritedWidget yang memungkinkan untuk memantau perubahan pada ValueNotifier.
+ValueNotifier dapat memperbarui widget yang berlangganan secara otomatis saat ada perubahan pada data Plan.
+
+3. memungkinkan aplikasi untuk memberikan umpan balik langsung kepada pengguna mengenai progres tugas yang telah mereka selesaikan.
+Dengan informasi ini, pengguna dapat melihat jumlah tugas yang sudah selesai dibandingkan dengan jumlah total, sehingga memberikan gambaran jelas
+tentang kemajuan mereka dalam menyelesaikan seluruh tugas.
+
+4. Langkah ini menambahkan footer yang menunjukkan status penyelesaian tugas (completenessMessage).
+   Dengan wrap widget Expanded di sekitar _buildList dalam Column, layout memungkinkan tampilan daftar tugas dengan progres di bagian bawah layar.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

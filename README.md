@@ -3,7 +3,7 @@
 A new Flutter project.
 
 hasil praktikum pertama
-![Secreenshot yuda1](image/01.png)
+![gif yuda](./image/01.gif)
 
 ## Getting Started
 
